@@ -14,13 +14,13 @@ como medida de posição por ser uma estatística robusta a outliers.
 # Describe all the necessary steps to run your code
 
 Para executar a análise de dados no seu computador, siga os seguintes passos:
-1. Faça o download da pasta Projeto-Exemplo. Para isso, copie o link da página
+1. Faça o download da pasta __Projeto-Exemplo__. Para isso, copie o link da página
 do GitHub para esta pasta e use o
-(DownGit)[https://minhaskamal.github.io/DownGit/#/home]
+[DownGit](https://minhaskamal.github.io/DownGit/#/home)
 para fazer o download da pasta.
-2. Defina a pasta Projeto-Exemplo como diretório de trabalho do R (procure por
-__set working directory__ no RStudio)
-3. Abra o script _main_script.R_ que está na pasta __codes__.
+2. Após o download, defina a pasta __Projeto-Exemplo__ como diretório de trabalho do R (procure por
+__set working directory__ no RStudio no menu __Session__)
+3. Abra o script _main_script.R_ que está na pasta __codes__
 4. Execute o script _main_script.R_
 
 Os resultados da análise de dados serão salvos na pasta __outputs__.
